@@ -1,0 +1,23 @@
+{
+  "name": "ordiss-automation",
+  "version": "1.0.0",
+  "description": "This will be complete End to End Automation Framework testing of our ORDISS project",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sabbir-sqa/ordiss-automation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sabbir-sqa/ordiss-automation/issues"
+  },
+  "homepage": "https://github.com/sabbir-sqa/ordiss-automation#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.57.0",
+    "@types/node": "^24.10.2"
+  }
+}
